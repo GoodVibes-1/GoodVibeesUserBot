@@ -1,9 +1,9 @@
 
 ## GoodVibesUserBot ❤️️
 
-|Deploy To Heroku|  Gitpod Online|
-|--|--|
-| [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template= https://github.com/GoodVibes-1/GoodVibeesUserBot) | [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/GoodVibes-1/GoodVibeesUserBot) |
+|Deploy To Heroku|  
+|--|
+| [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template= https://github.com/GoodVibes-1/GoodVibeesUserBot) | [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)] |
 
 ### Setting Up Locally 👇🏻
 
@@ -37,7 +37,7 @@ async def ping(event):
 
 ### İletişim ✍️
 
-Herhangi bir sorunla karşılaşırsanız, bana bildirmekten çekinmeyin. Bu bağlantıyı kullanarak benimle iletişime geçebilirsiniz  [this link](https://t.me/Poyraz2103).
+Herhangi bir sorunla karşılaşırsanız, bana bildirmekten çekinmeyin. Bu bağlantıyı kullanarak benimle iletişime geçebilirsiniz  [Poyraz](https://t.me/Poyraz2103).
 
 ### License ⚠️
 -   Copyright (C) 2020 by  [POYRAZ](https://github.com/matesa)  ❤️️
