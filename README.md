@@ -1,7 +1,7 @@
 
 ## GoodVibesUserBot ❤️️
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template= https://github.com/GoodVibes-1/GoodVibeesUserBot)]
+[![Deploy] (https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template= https://github.com/GoodVibes-1/GoodVibeesUserBot)
 
 ### Setting Up Locally 👇🏻
 
