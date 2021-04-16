@@ -1,6 +1,6 @@
 {
     "name": "GoodVibes UserBot",
-    "description": "Modular UserBot powered by @Fmsarkilar!",
+    "description": "Modular UserBot powered by @TelethonChat!",
     "logo": "https://telegra.ph/file/e7ffd99ef49c9b49586af.jpg",
     "keywords": [
         "telegram",
@@ -14,7 +14,7 @@
     "success_url": "https://t.me/GoodVibesUserBot/",
     "env": {
         "API_HASH": {
-            "description": "Bu değeri my.telegram.org'dan alın! Lütfen çalmayın",
+            "description": "Get this value from my.telegram.org! Please do not steal",
             "value": "",
             "required": true
         },
@@ -23,7 +23,7 @@
             "required": false
         },
         "APP_ID": {
-            "description": "Bu değeri my.telegram.org'dan alın! Lütfen çalmayın",
+            "description": "Get this value from my.telegram.org! Please do not steal",
             "value": "",
             "required": true
         },
@@ -32,7 +32,7 @@
             "required": false
         },
         "COMMAND_HAND_LER": {
-            "description": "eklentiler için kullanılması gereken komut işleyicisini belirtin. Bu, geçerli bir "normal ifade" kalıbı olmalıdır \"regex\" pattern",
+            "description": "specify command handler that should be used for the plugins. This should be a valid \"regex\" pattern",
             "required": false
         },
         "DB_URI": {
@@ -216,7 +216,7 @@
         },
         "TELEGRAPH_SHORT_NAME": {
             "description": "This is required for the @telegraph functionality.",
-            "value": "GoodVibesUSERBOT",
+            "value": "GoodVibesUserBot",
             "required": false
         },
         "TELE_GRAM_2FA_CODE": {
