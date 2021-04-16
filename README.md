@@ -7,21 +7,21 @@
 | [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/GoodVibes-1/GoodVibeesUserBot) | [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/GoodVibes-1/GoodVibeesUserBot) |
 
 
-### Setting Up Locally 👇🏻
+### Yerel Olarak Kurulum 👇🏻
 
- - Fill in the required fields in **"sample_config.py"**
- - Install the required libraries with **requirements.txt**.
+ - içindeki gerekli alanları doldurun **"sample_config.py"**
+ - Gereken kitaplıkları yükleyin **requirements.txt**.
 ( `pip3 install -r requirements.txt` )
 
- - And then start the bot. ( `python3 -m userbot` )
- - If you did it correctly, the bot will run successfully.
+ - Ve sonra botu başlatın. ( `python3 -m userbot` )
+ - Doğru yaptıysanız, bot başarıyla çalışacaktır.
 
 
-### Create String Session
+### String Session Alma
 
 [![Run on Repl.it](https://repl.it/badge/github/jasonalantolbert/replit-badger)](https://repl.it/@furki/telegram-session)
 
-### Example Plugin
+### Örnek Eklenti
 
   ```python
   from  datetime  import  datetime
